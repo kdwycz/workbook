@@ -1,0 +1,19 @@
+﻿void main()
+{ 
+	int x1=100,x2,y;
+	float x3,x4;
+	double X5,x6,x1;
+	char str,ha;
+	x1=34;
+	y=a;
+}# 实验六
+检查某段C源程序中，标识符的使用是否正确，
+即是否先声明后使用，
+或重复声明，
+假设数据类型只有int,float,double,char
+
+
+@王岚说，下面这种情况也要考虑→_→
+int x=3;
+int y=x,z=c;
+//c有错
