@@ -1,0 +1,17 @@
+基础并查集问题：
+Vijos P1034 家族 
+POJ P2524 Ubiquitous Religions 
+POJ P1611 The Suspects
+
+向量偏移的并查集问题：
+POJ P2492 A Bug's Life
+POJ P1703 Find them, Catch them
+POJ P1182 食物链
+Vijos P1776 关押罪犯
+
+附加信息的并查集问题：
+Vijos P1443 银河英雄传说
+POJ P1988 Cube Stacking
+
+还有道很有意思的题目，预处理后就是基础并查集了
+POJ P2236 Wireless Network

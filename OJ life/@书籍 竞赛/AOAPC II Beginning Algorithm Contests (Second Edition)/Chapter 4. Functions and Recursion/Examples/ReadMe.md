@@ -1,0 +1,1 @@
+UVA 1339 Ancient Cipher         想法题,两个字符串字母出现次数的数组排序后相等就YES
