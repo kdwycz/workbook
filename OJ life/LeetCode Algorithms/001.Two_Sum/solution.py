@@ -13,4 +13,4 @@ class Solution:
 a = [3,2,4]
 b = 6
 s = Solution()
-print(Solution.twoSum(a, b))
+print(s.twoSum(a, b))
