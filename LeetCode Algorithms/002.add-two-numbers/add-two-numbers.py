@@ -13,9 +13,8 @@ class Solution:
         return int(num_str) if num_str else 0
     
     def deserialization(self, number):
-        num_str = str(number)
         listnode = None
-        for str_ in num_str:
+        for str_ in str(number):
             next_node = listnode
             listnode = ListNode(x=str_)
             listnode.next = next_node
