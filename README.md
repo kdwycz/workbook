@@ -1,6 +1,12 @@
-#程序练习册#
+# 程序练习册
 
-就是各种小程序的集合
+ > 就是各种小程序的集合
+
+## 更新中
+
+ - [LeetCode Algorithms](https://github.com/kdwycz/workbook/tree/master/LeetCode%20Algorithms): Leetcode (假装)每日一题
+
+## 完坑/弃坑中
 
  - [Compile Principles-WL](https://github.com/kdwycz/workbook/tree/master/Compile%20Principles-WL): 编译原理上机作业
  - [Interesting Python](https://github.com/kdwycz/workbook/tree/master/Interesting%20Python): 有趣的Python脚本
