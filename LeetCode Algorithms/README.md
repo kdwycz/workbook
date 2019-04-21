@@ -10,11 +10,12 @@
 <p align="center">
     <b>Language: python javascript c cpp</b>
     <br>
-    <b>Last updated: 2018-05-15</b>
+    <b>Last updated: 2019-04-21</b>
     <br><br>
 </p>
 
 | 　#　 | 　　　　　　　　　Problems　　　　　　　　　 | 　　Tag　　 | Solutions | 　Code　 | 　Difficulty　 |
 |:-----:|:----------------------------------------:|:---:|:-------------:|:--------:|:--------------:|
 | 001 | [two-sum](https://leetcode-cn.com/problems/two-sum/description/) |  | [Solutions](./001.two-sum) | [python](./001.two-sum/two-sum.py) | Easy |
-| 002 | [add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |  | [Solutions](./.add-two-numbers) | [python](./002.add-two-numbers/add-two-numbers.py) | Medium |
+| 002 | [add-two-numbers](https://leetcode-cn.com/problems/add-two-numbers/description/) |  | [Solutions](./002.add-two-numbers) | [python](./002.add-two-numbers/add-two-numbers.py) | Medium |
+| 155 | [min-stack](https://leetcode-cn.com/problems/min-stack/description/) |  | [Solutions](./155.min-stack) | [python](./155.min-stack/min-stack.py) | Easy |
