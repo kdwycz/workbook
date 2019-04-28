@@ -6,6 +6,10 @@
 
 [Leetcode 908 smallest-range-i](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/908.smallest-range-i)
 
+连续刷水题总给人一种钦定的感觉，再 Random 一道吧
+
+[Leetcode 959 Regions Cut By Slashes](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/959.regions-cut-by-slashes)
+
 ## Review
 
 [User Authentication with Django REST Framework and JSON Web Tokens](https://medium.com/@sebastianojeda/user-authentication-with-django-rest-framework-and-json-web-tokens-747ea4d84b9f)
