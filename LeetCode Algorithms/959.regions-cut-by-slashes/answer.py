@@ -13,28 +13,24 @@ class Solution:
         
         if 0 <= y - 1 < self.map_length and \
                 0 <= x - 1 < self.map_length and \
-                not self.map_[y - 1][x - 1] and \
                 self.grid[(y - 1) // 2][(x - 1) // 2] != '/':
             # 左上
-            self.dfs(y-1, x-1) 
+            self.dfs(y - 1, x - 1)
         if 0 <= y - 1 < self.map_length and \
                 0 <= x + 1 < self.map_length and \
-                not self.map_[y - 1][x + 1] and \
                 self.grid[(y - 1) // 2][x // 2] != '\\':
             # 右上
-            self.dfs(y-1, x+1)  
+            self.dfs(y - 1, x + 1)
         if 0 <= y + 1 < self.map_length and \
                 0 <= x - 1 < self.map_length and \
-                not self.map_[y + 1][x - 1] and \
                 self.grid[y // 2][(x - 1) // 2] != '\\':
             # 左下
-            self.dfs(y+1, x-1)
+            self.dfs(y + 1, x - 1)
         if 0 <= y + 1 < self.map_length and \
                 0 <= x + 1 < self.map_length and \
-                not self.map_[y + 1][x + 1] and \
                 self.grid[y // 2][x // 2] != '/':
             # 右下
-            self.dfs(y+1, x+1)
+            self.dfs(y + 1, x + 1)
         return 1
     
     def regionsBySlashes(self, grid: List[str]) -> int:
