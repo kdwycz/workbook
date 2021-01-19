@@ -6,7 +6,7 @@
 
 还好Random出了一道水题，不然就赶不及12点之前打卡了= =
 
-[Leetcode 155 min-stack](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/155.min-stack)
+[Leetcode 155 min-stack](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/problems/155.min-stack)
 
 ## Review
 

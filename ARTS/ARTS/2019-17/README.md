@@ -4,11 +4,11 @@
 
 ## Algorithm
 
-[Leetcode 908 smallest-range-i](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/908.smallest-range-i)
+[Leetcode 908 smallest-range-i](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/problems/908.smallest-range-i)
 
 连续刷水题总给人一种钦定的感觉，再 Random 一道吧
 
-[Leetcode 959 Regions Cut By Slashes](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/959.regions-cut-by-slashes)
+[Leetcode 959 Regions Cut By Slashes](https://github.com/kdwycz/Workbook/tree/master/LeetCode%20Algorithms/problems/959.regions-cut-by-slashes)
 
 ## Review
 
